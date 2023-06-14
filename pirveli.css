@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #F5F5F5;
+}
+
+nav ul{
+    display: flex;
+    margin-left: 137px;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 35px;
+    margin-top: 21px;
+}
+nav ul li a{
+    text-decoration: none;
+
+font-size: 17px;
+font-weight: 700;
+line-height: 13px;
+letter-spacing: 0em;
+}
+.card-3{
+    display: flex;
+    justify-content: center;
+
+}
+.trad{
+    margin-left: 137px;
+    margin-top: 43px;
+}
+.card_1{
+    margin-left: 137px;
+    margin-top: 27px;
+    background: rgba(255, 255, 255, 1);
+    margin-right: 40px;
+    border-radius: 10px;
+    position: relative;
+}
+.dolore{
+    position: absolute;
+    color: white;
+    top: 32px;
+    left:41px;
+}
+.card_1 p{
+    margin-top: 68px;
+    margin-left: 37px;
+    margin-right: 87px;
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 700;
+line-height: 22px;
+text-align: left;
+color: rgba(138, 135, 135, 1);
+
+}
+.card_2 p{
+    margin-top: 68px;
+    margin-left: 37px;
+    margin-right: 87px;
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 700;
+line-height: 22px;
+text-align: left;
+color: rgba(138, 135, 135, 1);
+}
+.card_3 p{
+    margin-top: 68px;
+    margin-left: 37px;
+    margin-right: 87px;
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 700;
+line-height: 22px;
+text-align: left;
+color: rgba(138, 135, 135, 1);
+}
+
+
+.card_2{
+    margin-top: 27px;
+    background: rgba(255, 255, 255, 1);
+    margin-right: 40px;
+    border-radius: 10px;
+    position: relative;
+}
+.card_3{
+    margin-top: 27px;
+    background: rgba(255, 255, 255, 1);
+    margin-right: 137px;
+    border-radius: 10px;
+    position: relative;
+}
+.aaa{
+    width: 500px;
+}
+.mini{
+    margin-left: 40px;
+    margin-bottom: 39px;
+    margin-top: 14px;
+    display: flex;
+}
+.mini img{
+    width: 22px;
+    margin-right: 11px;
+}
+.mini p{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 700;
+line-height: 22px;
+text-align: left;
+color: rgba(138, 135, 135, 1);
+}
+
+.news h1{
+    margin-left: 137px;
+    margin-top: 57px;
+    margin-bottom: 30px;
+}
+.seqcia-jami{
+    display: flex;
+    justify-content: center;
+    /* width: 1400px; */
+}
+.seqcia-1{
+    margin-left: 137px;
+    width: 858px;
+}
+.seqcia-1 img{
+width: 1000px;
+margin-right: 45px;
+margin-bottom: 41px;
+}
+.seqcia-2{
+    margin-right: 137px;
+    margin-left: 230px;
+    display: flex;
+    flex-direction: column;
+}
+.seqcia-2 img{
+    width: 490px;
+    margin-bottom: 102px;
+}
+footer{
+    background: rgba(36, 48, 67, 1);
+
+}
+.linkebi {
+    display: flex;
+
+}
+.first{
+    margin-top: 59px;
+    margin-left: 137px;
+    margin-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+
+}
+.first a{
+    text-decoration: none;
+    color: rgba(129, 134, 135, 1);
+    line-height: 30px;
+}
+.sec{
+    margin-top: 59px;
+    margin-left: 75px;
+    margin-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+
+}
+.sec a{
+    text-decoration: none;
+    color: rgba(129, 134, 135, 1);
+    line-height: 30px;
+}
+.third{
+    margin-top: 59px;
+    margin-left: 75px;
+    margin-bottom: 44px;
+    display: flex;
+    flex-direction: column;
+
+}
+.third a{
+    text-decoration: none;
+    color: rgba(129, 134, 135, 1);
+    line-height: 30px;
+}
+.uazro{
+    margin-left: 112px;
+    margin-top: 59px;
+    color: white;
+}
+.logo{
+    align-self: center;
+    margin-left: 650px;
+    width: 45px;
+    margin-bottom: 50px;
+}
