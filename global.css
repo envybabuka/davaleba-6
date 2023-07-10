@@ -1,0 +1,253 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: #F5F5F5;
+}
+
+nav ul {
+  display: flex;
+  margin-left: 137px;
+}
+nav ul li {
+  list-style: none;
+  margin-right: 35px;
+  margin-top: 21px;
+}
+nav ul li a {
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 13px;
+  letter-spacing: 0em;
+}
+
+.trad {
+  margin-left: 137px;
+  margin-top: 43px;
+}
+
+.card-3 {
+  display: flex;
+  justify-content: center;
+}
+.card-3 .dolore {
+  position: absolute;
+  color: white;
+  top: 32px;
+  left: 41px;
+}
+.card-3 .card_1 {
+  margin-left: 137px;
+  margin-top: 27px;
+  background: rgb(255, 255, 255);
+  margin-right: 40px;
+  border-radius: 10px;
+  position: relative;
+}
+.card-3 .card_1 p {
+  margin-top: 68px;
+  margin-left: 37px;
+  margin-right: 87px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  color: rgb(138, 135, 135);
+}
+.card-3 .card_1 .mini {
+  margin-left: 40px;
+  margin-bottom: 39px;
+  margin-top: 14px;
+  display: flex;
+}
+.card-3 .card_1 .mini img {
+  height: 19px;
+  width: 19px;
+  margin-right: 11px;
+}
+.card-3 .card_1 .mini .mm {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  color: rgb(138, 135, 135);
+}
+.card-3 .card_2 {
+  margin-top: 27px;
+  background: rgb(255, 255, 255);
+  margin-right: 40px;
+  border-radius: 10px;
+  position: relative;
+}
+.card-3 .card_2 p {
+  margin-top: 68px;
+  margin-left: 37px;
+  margin-right: 87px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  color: rgb(138, 135, 135);
+}
+.card-3 .card_2 .mini {
+  margin-left: 40px;
+  margin-bottom: 39px;
+  margin-top: 14px;
+  display: flex;
+}
+.card-3 .card_2 .mini img {
+  width: 19px;
+  width: 19px;
+  margin-right: 11px;
+}
+.card-3 .card_2 .mini .mm {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  color: rgb(138, 135, 135);
+}
+.card-3 .card_3 {
+  margin-top: 27px;
+  background: rgb(255, 255, 255);
+  margin-right: 137px;
+  border-radius: 10px;
+  position: relative;
+}
+.card-3 .card_3 p {
+  margin-top: 68px;
+  margin-left: 37px;
+  margin-right: 87px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  color: rgb(138, 135, 135);
+}
+.card-3 .mini {
+  margin-left: 40px;
+  margin-bottom: 39px;
+  margin-top: 14px;
+  display: flex;
+}
+.card-3 .mini img {
+  width: 19px;
+  width: 19px;
+  margin-right: 11px;
+}
+.card-3 .mini .mm {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22px;
+  text-align: left;
+  color: rgb(138, 135, 135);
+}
+
+.aaa {
+  width: 500px;
+}
+
+.news h1 {
+  margin-left: 137px;
+  margin-top: 57px;
+  margin-bottom: 30px;
+}
+.news .seqcia-jami {
+  display: flex;
+  justify-content: center;
+  /* width: 1400px; */
+}
+.news .seqcia-1 {
+  margin-left: 137px;
+  width: 858px;
+}
+.news .seqcia-1 img {
+  width: 1000px;
+  margin-right: 45px;
+  margin-bottom: 41px;
+}
+.news .seqcia-2 {
+  margin-right: 137px;
+  margin-left: 230px;
+  display: flex;
+  flex-direction: column;
+}
+.news .seqcia-2 img {
+  width: 490px;
+  margin-bottom: 102px;
+}
+
+footer {
+  background: rgb(36, 48, 67);
+}
+footer .linkebi {
+  display: flex;
+}
+footer .linkebi .first {
+  margin-top: 59px;
+  margin-left: 137px;
+  margin-bottom: 44px;
+  display: flex;
+  flex-direction: column;
+}
+footer .linkebi .first a {
+  text-decoration: none;
+  color: rgb(129, 134, 135);
+  line-height: 30px;
+}
+footer .linkebi .sec {
+  margin-top: 59px;
+  margin-left: 75px;
+  margin-bottom: 44px;
+  display: flex;
+  flex-direction: column;
+}
+footer .linkebi .sec a {
+  text-decoration: none;
+  color: rgb(129, 134, 135);
+  line-height: 30px;
+}
+footer .linkebi .third {
+  margin-top: 59px;
+  margin-left: 75px;
+  margin-bottom: 44px;
+  display: flex;
+  flex-direction: column;
+}
+footer .linkebi .third a {
+  text-decoration: none;
+  color: rgb(129, 134, 135);
+  line-height: 30px;
+}
+footer .linkebi .uazro {
+  margin-left: 112px;
+  margin-top: 59px;
+  color: white;
+}
+footer .linkebi .logo {
+  align-self: center;
+  margin-left: 650px;
+  width: 45px;
+  margin-bottom: 50px;
+}/*# sourceMappingURL=global.css.map */
